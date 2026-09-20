@@ -1,18 +1,42 @@
-# 👋 I'm Hatchson
+👋 Hey, I’m Hatchson
 
-13 year old dev. I build game cheats, Discord bots, and Minecraft stuff.
+Developer • Minecraft Creator • Game Modder • Discord Developer
 
-[![Discord](https://img.shields.io/badge/__.hatchson.__-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1247173440780370035)
-[![Website](https://img.shields.io/badge/crumb.pxsl.dev-FFA500?style=flat&logo=googlechrome&logoColor=white)](https://crumb.pxsl.dev)
+I build game-related software, Minecraft projects, Discord bots, and web tools.
 
-## What I Build
-- **Synapse Cheatz** — kernel driver cheat suite (mapper, HWID spoofer, overlay)
-- **Meccha Chameleon** — game exploit tool
-- **CS2** — counter-strike 2 cheats
-- **Gorilla Tag / Animal Company** — VR game exploits
-- **Crumb Bot** — 180+ command Discord bot
-- **ValerianCore** — Minecraft server plugin (48 enchants, lootboxes, economy)
-- **Revière Shaders** — dark fantasy Minecraft shaders
+⸻
 
-## Tech
-`C++` `Python` `Java` `GLSL` `Windows 11` `VS 2026` `Kernel Dev`
+🛠️ Tech Stack
+
+Windows 11 Visual Studio VS Code Git GitHub Unity Minecraft
+
+⸻
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hatchson&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hatchson&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+⸻
+
+⭐ Featured Project
+
+<a href="https://github.com/pxsl-dev/Crumb">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pxsl-dev&repo=Crumb&theme=tokyonight&hide_border=true" />
+</a>
+
+⸻
+
+🌐 Find Me
+
+💬 Discord: __.hatchson.__
+
+🌐 Website: crumb.pxsl.dev
+
+🟩 Modrinth: Hatchson
+
+<p align="center">
+  <i>Building things, breaking things, and learning how they work.</i>
+</p>
