@@ -2,7 +2,11 @@
 
 Developer • Minecraft Creator • Game Modder • Discord Developer
 
-I build game-related software, Minecraft projects, Discord bots, and web tools.
+I build game-related software, Minecraft projects, Discord bots, and web tools. I also enjoy sharing projects and ideas with my friends.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hatchson&label=PROFILE+VIEWS&style=for-the-badge&color=8400ff" alt="Profile views"/>
+</p>
 
 ⸻
 
@@ -20,6 +24,11 @@ Windows 11 Visual Studio VS Code Git GitHub Unity Minecraft
   </a>
   <a href="https://github.com/Hatchson">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hatchson&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Hatchson's most used languages"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Hatchson">
+    <img src="https://streak-stats.demolab.com?user=Hatchson&theme=tokyonight&hide_border=true" alt="Hatchson's GitHub streak"/>
   </a>
 </p>
 
