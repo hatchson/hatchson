@@ -47,7 +47,7 @@ Windows 11 Visual Studio VS Code Git GitHub Unity Minecraft
 ⭐ Featured Project
 
 <p align="center">
-  <a href="https://github.com/Hatchson/crumb">
+  <a href="https://github.com/pxsldev/Crumb">
     <img src="https://img.shields.io/badge/Crumb-View%20Project-8400FF?style=for-the-badge&logo=github&logoColor=white" alt="Crumb repository" />
   </a>
 </p>
